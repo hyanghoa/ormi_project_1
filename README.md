@@ -4,5 +4,6 @@
 
 ChatGPT API를 사용하여 노래 추천을 해주는 웹 사이트 입니다.
 
+
 # 실행 화면
 <img width="80%" src="./img/index_screen.png"/>
